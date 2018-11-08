@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540843166 source:/home/julianna/Документы/indiv/main.cpp
+	<iostream>
+	<string.h>
+	<bits/stdc++.h>
+	<sstream>
+	<GL/glut.h>
+
